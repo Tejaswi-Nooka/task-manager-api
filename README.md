@@ -70,7 +70,7 @@ Authorization: Bearer <your_token>
 ## 🙋 About Me
 
 Created by **Tejaswi Nooka**
-[GitHub](https://github.com/Tejaswi-Nooka) | [LinkedIn](https://linkedin.com/in/tejaswi-nooka)
+[GitHub](https://github.com/Tejaswi-Nooka) | [LinkedIn](https://www.linkedin.com/in/tejaswin99/)
 
 ---
 
